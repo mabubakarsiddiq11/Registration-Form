@@ -1,3 +1,3 @@
-# Rigistration Form by HTML and CSS for practice!
+# Rigistration Form!
 
 https://mabubakarsiddiq11.github.io/Registration-Form
